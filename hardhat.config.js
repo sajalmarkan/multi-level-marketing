@@ -1,8 +1,8 @@
 /** @type import('hardhat/config').HardhatUserConfig */
 require("@nomicfoundation/hardhat-toolbox");
 
-const ALCHEMY_API_KEY="s4MzbcoilvzcxhFxxGBMH1Ua4stA5RXD";
-const SEPOLIA_PRIVATE_KEY ="e9255ca14b8b4d1fb05e1b6ed6ad6f8f1d9b25f3f65c179946e1c743369c7330";
+const ALCHEMY_API_KEY="D";
+const SEPOLIA_PRIVATE_KEY ="";
 module.exports = {
   solidity: "0.8.19",
 
